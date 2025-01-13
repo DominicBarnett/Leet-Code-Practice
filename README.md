@@ -10,49 +10,49 @@ Arrays and Hashing
 
 Problem 1: https://neetcode.io/problems/duplicate-integer
 
-Key Concepts:
+  Key Concepts:
 
-Array traversal
+  Array traversal
 
-Hash maps for efficient lookups
+  Hash maps for efficient lookups
 
-Approach:
+  Approach:
 
-Identify patterns in data.
+  Identify patterns in data.
+  
+  Use a hash map to optimize operations like lookups or counting occurrences.
 
-Use a hash map to optimize operations like lookups or counting occurrences.
-
-Outcome: (Will update after solving)
+  Outcome: (Will update after solving)
 
 Problem 2: https://neetcode.io/problems/is-anagram
 
-Key Concepts:
+  Key Concepts:
 
-Frequency counting
+    Frequency counting
 
-Efficient duplicate detection
+    Efficient duplicate detection
 
-Approach:
+  Approach:
 
-Traverse the array and build frequency maps.
+    Traverse the array and build frequency maps.
 
-Identify constraints for early exits.
+    Identify constraints for early exits.
 
-Outcome: (Will update after solving)
+  Outcome: (Will update after solving)
 
 Problem 3: https://neetcode.io/problems/two-integer-sum
 
-Key Concepts:
+  Key Concepts:
 
-Sliding window techniques
+    Sliding window techniques
 
-Hashing for dynamic updates
+    Hashing for dynamic updates
 
-Approach:
+  Approach:
 
-Define window boundaries.
+    Define window boundaries.
 
-Use hash maps to manage the sliding window efficiently.
+    Use hash maps to manage the sliding window efficiently.
 
 Outcome: (Will update after solving)
 
@@ -60,17 +60,17 @@ Two Pointers
 
 Problem 1: https://neetcode.io/problems/is-palindrome
 
-Key Concepts:
+  Key Concepts:
 
-Two-pointer traversal
+    Two-pointer traversal
 
-In-place array modifications
+    In-place array modifications
 
-Approach:
+  Approach:
 
-Initialize pointers at relevant positions.
+    Initialize pointers at relevant positions.
 
-Move pointers based on conditions to avoid extra space usage.
+    Move pointers based on conditions to avoid extra space usage.
 
 Outcome: (Will update after solving)
 
@@ -78,19 +78,19 @@ Stack
 
 Problem 1: https://neetcode.io/problems/validate-parentheses
 
-Key Concepts:
+  Key Concepts:
 
-Stack operations (push, pop, peek)
+    Stack operations (push, pop, peek)
+  
+    Matching elements (e.g., parentheses validation)
 
-Matching elements (e.g., parentheses validation)
+  Approach:
 
-Approach:
+    Use stack to track relevant elements.
 
-Use stack to track relevant elements.
+    Apply conditions to determine valid or invalid states.
 
-Apply conditions to determine valid or invalid states.
-
-Outcome: (Will update after solving)
+  Outcome: (Will update after solving)
 
 Goals
 
